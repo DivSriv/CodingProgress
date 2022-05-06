@@ -1,6 +1,6 @@
 # Leetcode Progress
-<!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (170/1750 free problems/2262)
+## Leetcode & Algoexpert progress
+### Leetcode (171/1750 free problems/2262)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -171,12 +171,14 @@
 168. - [x] [ 2262. Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) `***`
 169. - [x] [ 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 170. - [x] [ 27. Remove Element](https://leetcode.com/problems/remove-element/) `*`
+171. - [x] [ 414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) `*`
 
 
 
-<!-- ### Algoexpert (4/160)
+### Algoexpert (6/160)
 - [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
 - [x] 2-[ Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
 - [x] 3-[ Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
 - [x] 4-[ Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)
-- [x] 5-[ Move Element To End](https://www.algoexpert.io/questions/Move%20Element%20To%20End)-->
+- [x] 5-[ Move Element To End](https://www.algoexpert.io/questions/Move%20Element%20To%20End)
+- [x] 6-[ Search in Sorted Matrix](https://www.algoexpert.io/questions/Search%20In%20Sorted%20Matrix)
