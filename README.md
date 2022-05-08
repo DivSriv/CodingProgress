@@ -1,6 +1,6 @@
 # Leetcode Progress
 ## Leetcode & Algoexpert progress
-### Leetcode (172/1750 free problems/2262)
+### Leetcode (173/1750 free problems/2262)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -173,6 +173,7 @@
 170. - [x] [ 27. Remove Element](https://leetcode.com/problems/remove-element/) `*`
 171. - [x] [ 414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) `*`
 172. - [x] [ 2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) `*`
+173. - [x] [ 2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) `***` `Pratice sometime later`
 
 
 
