@@ -179,10 +179,11 @@
 
 
 
-### Algoexpert (6/160)
-- [x] 1-[ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
-- [x] 2-[ Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
-- [x] 3-[ Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
-- [x] 4-[ Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)
-- [x] 5-[ Move Element To End](https://www.algoexpert.io/questions/Move%20Element%20To%20End)
-- [x] 6-[ Search in Sorted Matrix](https://www.algoexpert.io/questions/Search%20In%20Sorted%20Matrix)
+### Algoexpert (7/160)
+1. - [x] [ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
+2. - [x] [ Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
+3. - [x] [ Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
+4. - [x] [ Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)
+5. - [x] [ Move Element To End](https://www.algoexpert.io/questions/Move%20Element%20To%20End)
+6. - [x] [ Search in Sorted Matrix](https://www.algoexpert.io/questions/Search%20In%20Sorted%20Matrix)
+7. - [x] [ Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
