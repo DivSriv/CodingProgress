@@ -6,15 +6,15 @@
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 4. - [x] [ 704. Binary Search](https://leetcode.com/problems/binary-search/)
 5. - [x] [ 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-6. - [x] [ 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) `***` `Pratice sometime later`
+6. - [x] [ 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) `***` `Practise sometime later`
 7. - [x] [ 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 8. - [x] [ 162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 9. - [x] [ 268. Missing Number](https://leetcode.com/problems/missing-number/)
 10. - [x] [ 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `**`
 11. - [x] [ 2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) `Contest`
-12. - [x] [ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) `***` `Floyd's Cycle Detection (Tortoise & Hare) algo` `Pratice sometime later`
+12. - [x] [ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) `***` `Floyd's Cycle Detection (Tortoise & Hare) algo` `Practise sometime later`
 13. - [x] [ 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
-14. - [x] [ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) `***` `Contest` `Pratice sometime later`
+14. - [x] [ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) `***` `Contest` `Practise sometime later`
 15. - [x] [ 645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) `***`
 16. - [x] [ 41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) `***`
 17. - [x] [ 278. First Bad Version](https://leetcode.com/problems/first-bad-version/) `**`
@@ -60,7 +60,7 @@
 57. - [x] [ 1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) `****`
 58. - [x] [ 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 59. - [x] [ 989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) `**`
-60. - [x] [ 1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) `***` `Pratice sometime later`
+60. - [x] [ 1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) `***` `Practise sometime later`
 61. - [x] [ 1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 62. - [x] [ 1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 63. - [x] [ 1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
@@ -68,44 +68,44 @@
 65. - [x] [ 1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) `Tricky!`
 66. - [x] [ 441. Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/) `*`
 67. - [x] [ 1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) `***`
-68. - [x] [ 1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) `Pratice sometime later`
+68. - [x] [ 1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) `Practise sometime later`
 69. - [x] [ 349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 70. - [x] [ 350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-71. - [x] [ 888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) `**` `Math` `Pratice sometime later`
-72. - [x] [ 1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) `**` `Tricky!` `Pratice sometime later`
+71. - [x] [ 888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) `**` `Math` `Practise sometime later`
+72. - [x] [ 1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) `**` `Tricky!` `Practise sometime later`
 73. - [x] [ 1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) `**`
-74. - [x] [ 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) `***` `Pratice sometime later`
+74. - [x] [ 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) `***` `Practise sometime later`
 75. - [x] [ 2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) `Contest`
-76. - [x] [ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/) `***` `Contest` `Pratice sometime later`
+76. - [x] [ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/) `***` `Contest` `Practise sometime later`
 77. - [x] [ 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) `**`
 78. - [x] [ 81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) `**`
 79. - [x] [ 1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
-80. - [x] [ 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) `***` `Pratice sometime later`
+80. - [x] [ 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) `***` `Practise sometime later`
 81. - [x] [ 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
-82. - [x] [ 410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) `****` `Important` `Pratice sometime later`
+82. - [x] [ 410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) `****` `Important` `Practise sometime later`
 83. - [x] [ 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 84. - [x] [ 1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) `**`
 85. - [x] [ 1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 86. - [x] [ 709. To Lower Case](https://leetcode.com/problems/to-lower-case/)
 87. - [x] [ 88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) `***`
-88. - [x] [ 169. Majority Element](https://leetcode.com/problems/majority-element/) `**` `Boyer-Moore Voting algo` `Pratice sometime later`
+88. - [x] [ 169. Majority Element](https://leetcode.com/problems/majority-element/) `**` `Boyer-Moore Voting algo` `Practise sometime later`
 89. - [x] [ 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 90. - [x] [ 680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) `**`
 91. - [x] [ 2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) `**` `Contest`
-92. - [x] [ 2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) `**` `Contest` `Pratice sometime later`
-93. - [x] [ 2222. Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) `***` `Contest` `Pratice sometime later`
+92. - [x] [ 2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) `**` `Contest` `Practise sometime later`
+93. - [x] [ 2222. Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) `***` `Contest` `Practise sometime later`
 94. - [x] [ 2224. Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) `**` `Contest`
 95. - [x] [ 67. Add Binary](https://leetcode.com/problems/add-binary/)
 96. - [x] [ 136. Single Number](https://leetcode.com/problems/single-number/)
 97. - [x] [ 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) `**`
 98. - [x] [ 1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) `**`
-99. - [x] [ 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) `**` `Pratice sometime later`
-100. - [x] [ 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) `***` `Pratice sometime later`
+99. - [x] [ 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) `**` `Practise sometime later`
+100. - [x] [ 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) `***` `Practise sometime later`
 101. - [x] [ 509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 102. - [x] [ 231. Power of Two](https://leetcode.com/problems/power-of-two/)
 103. - [x] [ 326. Power of Three](https://leetcode.com/problems/power-of-three/)
 104. - [x] [ 342. Power of Four](https://leetcode.com/problems/power-of-four/)
-105. - [x] [ 1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) `***` `Pratice sometime later`
+105. - [x] [ 1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) `***` `Practise sometime later`
 106. - [x] [ 566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) `**`
 107. - [x] [ 1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) `**`
 108. - [x] [ 12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) `**`
@@ -118,10 +118,10 @@
 115. - [x] [ 2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) `**` `Contest`
 116. - [x] [ 2240. Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) `***` `Contest`
 117. - [x] [ 2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) `**` `Contest`
-118. - [x] [ 2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) `***` `Contest` `Pratice sometime later`
+118. - [x] [ 2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) `***` `Contest` `Practise sometime later`
 119. - [x] [ 412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) `*`
-120. - [x] [ 28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) `***` `KMP` `Pratice sometime later`
-121. - [x] [ 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `**` `DP` `Pratice sometime later`
+120. - [x] [ 28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) `***` `KMP` `Practise sometime later`
+121. - [x] [ 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `**` `DP` `Practise sometime later`
 122. - [x] [ 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) `**`
 123. - [x] [ 58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 124. - [x] [ 7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) `*`
@@ -130,50 +130,50 @@
 127. - [x] [ 153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) `***`
 128. - [x] [ 59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 129. - [x] [ 2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
-130. - [x] [ 1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) `**` `Pratice sometime later`
+130. - [x] [ 1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) `**` `Practise sometime later`
 131. - [x] [ 2249. Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) `**`
-132. - [x] [ 2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) `****` `Pratice sometime later`
-133. - [x] [ 2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) `****` `Pratice` `Tricky!`
+132. - [x] [ 2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) `****` `Practise sometime later`
+133. - [x] [ 2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) `****` `Practise` `Tricky!`
 134. - [x] [ 73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) `**`
-135. - [x] [ 885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) `***` `Pratice sometime later`
+135. - [x] [ 885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) `***` `Practise sometime later`
 136. - [x] [ 75. Sort Colors](https://leetcode.com/problems/sort-colors/) `*`
-137. - [x] [ 198. House Robber](https://leetcode.com/problems/house-robber/) `**` `DP` `Pratice sometime later` `Tricky!`
-138. - [x] [ 55. Jump Game](https://leetcode.com/problems/jump-game/) `***` `Pratice sometime later` `DP` `Greedy`
-139. - [x] [ 600. Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) `****` `Pratice sometime later` `DP`
+137. - [x] [ 198. House Robber](https://leetcode.com/problems/house-robber/) `**` `DP` `Practise sometime later` `Tricky!`
+138. - [x] [ 55. Jump Game](https://leetcode.com/problems/jump-game/) `***` `Practise sometime later` `DP` `Greedy`
+139. - [x] [ 600. Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) `****` `Practise sometime later` `DP`
 140. - [x] [ 1250. Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) `***` `Mathematical`
 141. - [x] [ 436. Find Right Interval](https://leetcode.com/problems/find-right-interval/) `***`
 142. - [x] [ 179. Largest Number](https://leetcode.com/problems/largest-number/) `***`
-143. - [x] [ 2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `***` `Pratice sometime later`
+143. - [x] [ 2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `***` `Practise sometime later`
 144. - [x] [ 83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) `**`
 145. - [x] [ 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `**`
 146. - [x] [ 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `*`
-147. - [x] [ 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `**` `Pratice sometime later`
+147. - [x] [ 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `**` `Practise sometime later`
 148. - [x] [ 202. Happy Number](https://leetcode.com/problems/happy-number/) `**` `LL slow-fast approach used` `Tricky!` 
 149. - [x] [ 2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) `**`
 150. - [x] [ 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `*`
-151. - [x] [ 148. Sort List](https://leetcode.com/problems/sort-list/) `***` `Pratice sometime later`
+151. - [x] [ 148. Sort List](https://leetcode.com/problems/sort-list/) `***` `Practise sometime later`
 152. - [x] [ 147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) `**`
-153. - [x] [ 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `*` `Pratice sometime later`
+153. - [x] [ 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `*` `Practise sometime later`
 154. - [x] [ 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 155. - [x] [ 2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) `*` `nice use String.prototype.indexOf()`
 156. - [x] [ 2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) `**`
-157. - [x] [ 2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) `***` `Pratice sometime later`
+157. - [x] [ 2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) `***` `Practise sometime later`
 158. - [x] [ 2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) `***` `Tricky!` 
-159. - [x] [ 92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `***` `Pratice sometime later`
-160. - [x] [ 234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `***` `Pratice sometime later`
-161. - [x] [ 143. Reorder List](https://leetcode.com/problems/reorder-list/) `***` `Pratice sometime later`
-162. - [x] [ 25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `****` `Pratice sometime later`
-163. - [x] [ 61. Rotate List](https://leetcode.com/problems/rotate-list/) `***` `Pratice sometime later`
+159. - [x] [ 92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `***` `Practise sometime later`
+160. - [x] [ 234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `***` `Practise sometime later`
+161. - [x] [ 143. Reorder List](https://leetcode.com/problems/reorder-list/) `***` `Practise sometime later`
+162. - [x] [ 25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `****` `Practise sometime later`
+163. - [x] [ 61. Rotate List](https://leetcode.com/problems/rotate-list/) `***` `Practise sometime later`
 164. - [x] [ 48. Rotate Image](https://leetcode.com/problems/rotate-image/) `***`
 165. - [x] [ 2259. Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) `**` `Use substring`
-166. - [x] [ 2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) `***` `Pratice sometime later`
+166. - [x] [ 2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) `***` `Practise sometime later`
 167. - [x] [ 2261. K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) `***`
 168. - [x] [ 2262. Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) `***`
 169. - [x] [ 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 170. - [x] [ 27. Remove Element](https://leetcode.com/problems/remove-element/) `*`
 171. - [x] [ 414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) `*`
 172. - [x] [ 2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) `*`
-173. - [x] [ 2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) `***` `Pratice sometime later`
+173. - [x] [ 2266. Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) `***` `Practise sometime later`
 174. - [x] [ 2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) `**`
 
 
