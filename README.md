@@ -1,6 +1,6 @@
 # Leetcode Progress
 ## Leetcode & Algoexpert progress
-### Leetcode (176/1754 free problems/2267)
+### Leetcode (177/1754 free problems/2267)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -177,6 +177,7 @@
 174. - [x] [ 2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) `**`
 175. - [x] [ 1499. Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) `****`
 176. - [x] [ 754. Reach a Number](https://leetcode.com/problems/reach-a-number/) `***`
+177. - [x] [ 1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) `***` `Practise sometime later`
 
 
 
