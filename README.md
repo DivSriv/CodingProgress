@@ -1,6 +1,6 @@
 # Leetcode Progress
 ## Leetcode & Algoexpert progress
-### Leetcode (177/1754 free problems/2267)
+### Leetcode (178/1754 free problems/2267)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -178,6 +178,7 @@
 175. - [x] [ 1499. Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) `****`
 176. - [x] [ 754. Reach a Number](https://leetcode.com/problems/reach-a-number/) `***`
 177. - [x] [ 1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) `***` `Practise sometime later`
+178. - [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) `***`
 
 
 
