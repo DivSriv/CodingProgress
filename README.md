@@ -1,6 +1,6 @@
 # Leetcode Progress
 ## Leetcode & Algoexpert progress
-### Leetcode (178/1754 free problems/2267)
+### Leetcode (179/1754 free problems/2267)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -14,7 +14,7 @@
 11. - [x] [ 2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) `Contest`
 12. - [x] [ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) `***` `Floyd's Cycle Detection (Tortoise & Hare) algo` `Practise sometime later`
 13. - [x] [ 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
-14. - [x] [ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) `***` `Contest` `Practise sometime later`
+14. - [x] [ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) `***` `Practise sometime later`
 15. - [x] [ 645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) `***`
 16. - [x] [ 41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) `***`
 17. - [x] [ 278. First Bad Version](https://leetcode.com/problems/first-bad-version/) `**`
@@ -32,8 +32,8 @@
 29. - [x] [ 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) `Tricky!`
 30. - [x] [ 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 31. - [x] [ 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-32. - [x] [ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) `**` `Contest`
-33. - [x] [ 2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) `****` `Contest`
+32. - [x] [ 2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) `**`
+33. - [x] [ 2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) `****`
 34. - [x] [ 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
 35. - [x] [ 1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
 36. - [x] [ 1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
@@ -42,7 +42,7 @@
 39. - [x] [ 69. Square Root](https://leetcode.com/problems/sqrtx/) `**`
 40. - [x] [ 1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 41. - [x] [ 1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-42. - [x] [ 2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) `Contest`
+42. - [x] [ 2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) 
 43. - [x] [ 1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 44. - [x] [ 1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 45. - [x] [ 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) `**`
@@ -52,8 +52,8 @@
 49. - [x] [ 1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 50. - [x] [ 1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 51. - [x] [ 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
-52. - [x] [ 2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) `Contest`
-53. - [x] [ 2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) `**` `Contest`
+52. - [x] [ 2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) 
+53. - [x] [ 2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) `**` 
 54. - [x] [ 832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 55. - [x] [ 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 56. - [x] [ 1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
@@ -75,8 +75,8 @@
 72. - [x] [ 1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) `**` `Tricky!` `Practise sometime later`
 73. - [x] [ 1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) `**`
 74. - [x] [ 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) `***` `Practise sometime later`
-75. - [x] [ 2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) `Contest`
-76. - [x] [ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/) `***` `Contest` `Practise sometime later`
+75. - [x] [ 2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) 
+76. - [x] [ 2216. Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/) `***` `Practise sometime later`
 77. - [x] [ 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) `**`
 78. - [x] [ 81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) `**`
 79. - [x] [ 1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
@@ -91,10 +91,10 @@
 88. - [x] [ 169. Majority Element](https://leetcode.com/problems/majority-element/) `**` `Boyer-Moore Voting algo` `Practise sometime later`
 89. - [x] [ 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 90. - [x] [ 680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) `**`
-91. - [x] [ 2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) `**` `Contest`
-92. - [x] [ 2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) `**` `Contest` `Practise sometime later`
-93. - [x] [ 2222. Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) `***` `Contest` `Practise sometime later`
-94. - [x] [ 2224. Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) `**` `Contest`
+91. - [x] [ 2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) `**`
+92. - [x] [ 2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) `**` `Practise sometime later`
+93. - [x] [ 2222. Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) `***` `Practise sometime later`
+94. - [x] [ 2224. Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) `**` 
 95. - [x] [ 67. Add Binary](https://leetcode.com/problems/add-binary/)
 96. - [x] [ 136. Single Number](https://leetcode.com/problems/single-number/)
 97. - [x] [ 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) `**`
@@ -115,10 +115,10 @@
 112. - [x] [ 1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) `**`
 113. - [x] [ 2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/) `Never solve again`
 114. - [x] [ 2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
-115. - [x] [ 2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) `**` `Contest`
-116. - [x] [ 2240. Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) `***` `Contest`
-117. - [x] [ 2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) `**` `Contest`
-118. - [x] [ 2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) `***` `Contest` `Practise sometime later`
+115. - [x] [ 2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) `**` 
+116. - [x] [ 2240. Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) `***` 
+117. - [x] [ 2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) `**` 
+118. - [x] [ 2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) `***` `Practise sometime later`
 119. - [x] [ 412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) `*`
 120. - [x] [ 28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) `***` `KMP` `Practise sometime later`
 121. - [x] [ 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) `**` `DP` `Practise sometime later`
@@ -179,6 +179,7 @@
 176. - [x] [ 754. Reach a Number](https://leetcode.com/problems/reach-a-number/) `***`
 177. - [x] [ 1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) `***` `Practise sometime later`
 178. - [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) `***`
+179. - [x] [ 233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) `***`
 
 
 
