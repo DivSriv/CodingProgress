@@ -1,6 +1,6 @@
 # Leetcode Progress
 ## Leetcode & Algoexpert progress
-### Leetcode (189/1754 free problems/2268)
+### Leetcode (190/1754 free problems/2268)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -190,6 +190,7 @@
 187. - [x] [ 315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) `****` `Practise again`
 188. - [x] [ 976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) `*`
 189. - [x] [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
+190. - [x] [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 
 
 
