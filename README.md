@@ -1,6 +1,6 @@
 # Leetcode Progress
 ## Leetcode & Algoexpert progress
-### Leetcode (192/1754 free problems/2268)
+### Leetcode (193/1758 free problems/2272)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -193,6 +193,7 @@
 190. - [x] [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 191. - [x] [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 192. - [x] [ 2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)
+193. - [x] [ 2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) `**`
 
 
 
