@@ -1,6 +1,6 @@
 # Leetcode Progress
 ## Leetcode & Algoexpert progress
-### Leetcode (203/1762 free problems/2276)
+### Leetcode (204/1762 free problems/2276)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -204,6 +204,7 @@
 201. - [x] [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 202. - [x] [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) `*`
 203. - [x] [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) `*`
+204. - [x] [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) `*`
 
 
 
