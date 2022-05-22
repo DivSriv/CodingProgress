@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (220/1762 free problems/2276)
+### Leetcode (221/1766 free problems/2281)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -221,6 +221,7 @@
 218. - [x] [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 219. - [x] [ 2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 220. - [x] [ 2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+221. - [x] [ 2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) `***`
 
 
 
