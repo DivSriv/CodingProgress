@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (223/1766 free problems/2281)
+### Leetcode (224/1766 free problems/2281)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -224,6 +224,7 @@
 221. - [x] [ 2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) `***`
 222. - [x] [ 647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) `***`
 223. - [x] [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
+224. - [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 
 
