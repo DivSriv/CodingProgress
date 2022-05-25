@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (225/1766 free problems/2281)
+### Leetcode (226/1766 free problems/2281)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -226,6 +226,7 @@
 223. - [x] [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
 224. - [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 225. - [x] [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
+226. - [x] [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 
 
 
