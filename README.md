@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (227/1766 free problems/2281)
+### Leetcode (228/1766 free problems/2281)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -223,11 +223,12 @@
 220. - [x] [ 2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 221. - [x] [ 2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) `***`
 222. - [x] [ 647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) `***`
-223. - [x] [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
-224. - [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-225. - [x] [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
+223. - [x] [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) `**`
+224. - [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) `**`
+225. - [x] [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) `**`
 226. - [x] [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 227. - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+228. - [x] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) `**`
 
 
 
