@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (231/1766 free problems/2281)
+### Leetcode (232/1766 free problems/2281)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -232,6 +232,7 @@
 229. - [x] [401. Binary Watch](https://leetcode.com/problems/binary-watch/) `**`
 230. - [x] [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) `**`
 231. - [x] [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
+232. - [x] [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 
 
 
