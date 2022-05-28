@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (234/1766 free problems/2281)
+### Leetcode (235/1766 free problems/2281)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -235,6 +235,7 @@
 232. - [x] [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 233. - [x] [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) 
 234. - [x] [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) `**`
+235. - [x] [78. Subsets](https://leetcode.com/problems/subsets/) `**`
 
 
 
