@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (237/1766 free problems/2281)
+### Leetcode (238/1766 free problems/2281)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -178,7 +178,7 @@
 175. - [x] [ 1499. Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) `****`
 176. - [x] [ 754. Reach a Number](https://leetcode.com/problems/reach-a-number/) `***`
 177. - [x] [ 1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) `***` `Practise sometime later`
-178. - [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) `***`
+178. - [x] [ 875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) `***`
 179. - [x] [ 233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) `***`
 180. - [x] [ 1818. Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) `***` `Practise sometime later`
 181. - [x] [ 1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) `***`
@@ -201,43 +201,44 @@
 198. - [x] [ 561. Array Partition I](https://leetcode.com/problems/array-partition-i/) `Pattern after sorting`
 199. - [x] [ 922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 200. - [x] [ 1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) `**`
-201. - [x] [1051. Height Checker](https://leetcode.com/problems/height-checker/)
-202. - [x] [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) `*`
-203. - [x] [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) `*`
-204. - [x] [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) `*`
-205. - [x] [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) `**`
-206. - [x] [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
-207. - [x] [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
-208. - [x] [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) `*`
-209. - [x] [15. 3 Sum](https://leetcode.com/problems/3sum/) `***` `Practise sometime later`
-210. - [x] [16. 3 Sum Closest](https://leetcode.com/problems/3sum-closest/) `***`
-211. - [x] [13. Roman to Integer.](https://leetcode.com/problems/roman-to-integer/)
-212. - [x] [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) `*`
-213. - [x] [18. 4 Sum](https://leetcode.com/problems/4sum/) `***` `Practise sometime later`
-214. - [x] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) `***`
-215. - [x] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `***` `Meeting Room I & II Similar` `Practise again`
+201. - [x] [ 1051. Height Checker](https://leetcode.com/problems/height-checker/)
+202. - [x] [ 1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) `*`
+203. - [x] [ 1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) `*`
+204. - [x] [ 1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) `*`
+205. - [x] [ 1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) `**`
+206. - [x] [ 1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+207. - [x] [ 1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
+208. - [x] [ 1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) `*`
+209. - [x] [ 15. 3 Sum](https://leetcode.com/problems/3sum/) `***` `Practise sometime later`
+210. - [x] [ 16. 3 Sum Closest](https://leetcode.com/problems/3sum-closest/) `***`
+211. - [x] [ 13. Roman to Integer.](https://leetcode.com/problems/roman-to-integer/)
+212. - [x] [ 925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) `*`
+213. - [x] [ 18. 4 Sum](https://leetcode.com/problems/4sum/) `***` `Practise sometime later`
+214. - [x] [ 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) `***`
+215. - [x] [ 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `***` `Meeting Room I & II Similar` `Practise again`
 216. - [x] [ 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) `**`
-217. - [x] [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
-218. - [x] [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
+217. - [x] [ 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
+218. - [x] [ 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 219. - [x] [ 2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 220. - [x] [ 2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
 221. - [x] [ 2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) `***`
 222. - [x] [ 647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) `***`
-223. - [x] [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) `**`
-224. - [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) `**`
-225. - [x] [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) `**`
-226. - [x] [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
-227. - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-228. - [x] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) `**`
-229. - [x] [401. Binary Watch](https://leetcode.com/problems/binary-watch/) `**`
-230. - [x] [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) `**`
-231. - [x] [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
-232. - [x] [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
-233. - [x] [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) 
-234. - [x] [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) `**`
-235. - [x] [78. Subsets](https://leetcode.com/problems/subsets/) `**`
+223. - [x] [ 1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) `**`
+224. - [x] [ 14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) `**`
+225. - [x] [ 1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) `**`
+226. - [x] [ 2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
+227. - [x] [ 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+228. - [x] [ 190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) `**`
+229. - [x] [ 401. Binary Watch](https://leetcode.com/problems/binary-watch/) `**`
+230. - [x] [ 50. Pow(x, n)](https://leetcode.com/problems/powx-n/) `**`
+231. - [x] [ 1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
+232. - [x] [ 728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+233. - [x] [ 1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) 
+234. - [x] [ 1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) `**`
+235. - [x] [ 78. Subsets](https://leetcode.com/problems/subsets/) `**`
 236. - [x] [ 2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
 237. - [x] [ 2284. Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) `**`
+238. - [x] [ 2287. Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)
 
 
 
