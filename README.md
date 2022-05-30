@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (238/1766 free problems/2281)
+### Leetcode (239/1774 free problems/2290)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -239,6 +239,7 @@
 236. - [x] [ 2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
 237. - [x] [ 2284. Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) `**`
 238. - [x] [ 2287. Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)
+239. - [x] [ 2285. Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) `***`
 
 
 
