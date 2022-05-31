@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (240/1774 free problems/2290)
+### Leetcode (241/1774 free problems/2290)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -241,6 +241,7 @@
 238. - [x] [ 2287. Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)
 239. - [x] [ 2285. Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) `***`
 240. - [x] [ 2288. Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/) `***`
+241. - [x] [ 29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) `**`
 
 
 
