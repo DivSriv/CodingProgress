@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (245/1774 free problems/2290)
+### Leetcode (246/1774 free problems/2290)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -246,6 +246,7 @@
 243. - [x] [ 1573. Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) `**`
 244. - [x] [ 1813. Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) `**`
 245. - [x] [ 23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `****`
+246. - [x] [ 312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) `****` `DP`
 
 
 
