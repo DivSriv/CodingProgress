@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (250/1774 free problems/2292)
+### Leetcode (251/1774 free problems/2296)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -251,6 +251,7 @@
 248. - [x] [ 38. Count and Say](https://leetcode.com/problems/count-and-say/) `***`
 249. - [x] [ 51. N Queens](https://leetcode.com/problems/n-queens/) `***` `Practise sometime later`
 250. - [x] [ 65. Valid Number](https://leetcode.com/problems/valid-number/) `***`
+251. - [x] [ 2293. Min Max Game](https://leetcode.com/problems/min-max-game/)
 
 
 
