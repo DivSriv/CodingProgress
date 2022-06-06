@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (254/1774 free problems/2296)
+### Leetcode (255/1774 free problems/2296)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -255,6 +255,7 @@
 252. - [x] [ 2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) `***`
 253. - [x] [ 2295. Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) `**`
 254. - [x] [ 52. N Queens II](https://leetcode.com/problems/n-queens-ii/) `***`
+255. - [x] [ 160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `*`
 
 
 
