@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (256/1774 free problems/2296)
+### Leetcode (257/1774 free problems/2296)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -257,6 +257,7 @@
 254. - [x] [ 52. N Queens II](https://leetcode.com/problems/n-queens-ii/) `***`
 255. - [x] [ 160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `*`
 256. - [x] [ 461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+257. - [x] [ 477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) `**`
 
 
 
