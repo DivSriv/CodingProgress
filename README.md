@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (271/1782 free problems/2306)
+### Leetcode (272/1782 free problems/2306)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -272,6 +272,7 @@
 269. - [x] [ 2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) `***` `Solve again later`
 270. - [x] [ 868. Binary Gap](https://leetcode.com/problems/binary-gap/)
 271. - [x] [ 1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
+272. - [x] [ 686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/) `**`
 
 
 
