@@ -12,7 +12,7 @@
 9. - [x] [ 268. Missing Number](https://leetcode.com/problems/missing-number/)
 10. - [x] [ 448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `**`
 11. - [x] [ 2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) `Contest`
-12. - [x] [ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) `***` `Floyd's Cycle Detection (Tortoise & Hare) algo` `Practise sometime later`
+12. - [x] [ 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) `*** Floyd's Cycle Detection (Tortoise & Hare) algo Practise sometime later`
 13. - [x] [ 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 14. - [x] [ 2186. Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) `***` `Practise sometime later`
 15. - [x] [ 645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) `***`
