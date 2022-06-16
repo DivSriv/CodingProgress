@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (277/1782 free problems/2306)
+### Leetcode (278/1782 free problems/2306)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -278,6 +278,7 @@
 275. - [x] [ 137. Single Number II](https://leetcode.com/problems/single-number-ii/) `**`
 276. - [x] [ 1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) `***` `DP` `Solve again later` `Recursion`
 277. - [x] [ 89. Gray Code](https://leetcode.com/problems/gray-code/) `***`
+278. - [x] [ 187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) `**`
 
 
 
