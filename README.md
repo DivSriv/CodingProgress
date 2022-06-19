@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (281/1782 free problems/2308)
+### Leetcode (282/1792 free problems/2312)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -280,8 +280,9 @@
 277. - [x] [ 89. Gray Code](https://leetcode.com/problems/gray-code/) `***`
 278. - [x] [ 187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) `**`
 279. - [x] [ 968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) `****` `Solve again later`
-280. - [x] [ 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `***`
+280. - [x] [ 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `**` `Not so easy`
 281. - [x] [ 240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) `***`
+282. - [x] [ 2309. Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)
 
 
 
