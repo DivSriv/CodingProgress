@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (286/1792 free problems/2312)
+### Leetcode (287/1792 free problems/2312)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -287,6 +287,7 @@
 284. - [x] [ 2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) `**`
 285. - [x] [ 89. Gray Code](https://leetcode.com/problems/gray-code/) `**` `Not so easy`
 286. - [x] [ 1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) `***`
+287. - [x] [ 820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) `***` `set` `substring`
 
 
 
