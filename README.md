@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (288/1792 free problems/2312)
+### Leetcode (289/1792 free problems/2312)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -289,6 +289,7 @@
 286. - [x] [ 1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) `***`
 287. - [x] [ 820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) `***` `set` `substring`
 288. - [x] [ 703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) `***` `Solve again later`
+289. - [x] [ 1985. Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) `***` `Tricky!`
 
 
 
