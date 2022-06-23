@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (290/1792 free problems/2312)
+### Leetcode (291/1792 free problems/2312)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -291,6 +291,7 @@
 288. - [x] [ 703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) `***` `Solve again later`
 289. - [x] [ 1985. Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) `***` `Tricky!`
 290. - [x] [ 1835. Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) `Tricky!`
+291. - [x] [ 2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) `***` `Nice Binary Search Q`
 
 
 
