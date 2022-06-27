@@ -297,6 +297,7 @@
 294. - [x] [ 2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
 295. - [x] [ 1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 296. - [x] [ 2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/)
+297. - [x] [ 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) `Tricky!` `Easy`
 
 
 
