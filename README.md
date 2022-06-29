@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (300/1800 free problems/2322)
+### Leetcode (301/1800 free problems/2322)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -301,6 +301,7 @@
 298. - [x] [ 2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)
 299. - [x] [ 2317. Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) `***` `Tricky!`
 300. - [x] [ 237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `Tricky!` `Easy`
+301. - [x] [ 1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 
 
 
