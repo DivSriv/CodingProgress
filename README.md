@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (304/1800 free problems/2322)
+### Leetcode (305/1800 free problems/2322)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -305,6 +305,7 @@
 302. - [x] [ 203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) 
 303. - [x] [ 82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `***`
 304. - [x] [ 1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) `**`
+305. - [x] [ 445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `***` `Solve again later` `Imp`
 
 
 
