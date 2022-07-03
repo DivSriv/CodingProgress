@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (305/1800 free problems/2324)
+### Leetcode (306/1800 free problems/2324)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -306,6 +306,7 @@
 303. - [x] [ 82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `***`
 304. - [x] [ 1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) `**`
 305. - [x] [ 445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `***` `Solve again later` `Imp`
+306. - [x] [ 1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `***`
 
 
 
