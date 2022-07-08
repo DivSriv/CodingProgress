@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (311/1804 free problems/2329)
+### Leetcode (312/1804 free problems/2329)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -312,6 +312,7 @@
 309. - [x] [ 146. LRU Cache](https://leetcode.com/problems/lru-cache/) `****` `Solve again later`
 310. - [x] [ 225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) `**`
 311. - [x] [ 232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `**`
+312. - [x] [ 1974. Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) `*`
 
 
 
