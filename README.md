@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (317/1812 free problems/2338)
+### Leetcode (318/1812 free problems/2338)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -318,6 +318,7 @@
 315. - [x] [ 2335. Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) `***`
 316. - [x] [ 2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) `**`
 317. - [x] [ 2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) `***` `Practise sometime later`
+318. - [x] [ 39. Combination Sum](https://leetcode.com/problems/combination-sum/) `***` `Solve again using dfs`
 
 
 
