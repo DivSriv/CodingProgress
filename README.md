@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (320/1812 free problems/2338)
+### Leetcode (321/1812 free problems/2338)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -318,9 +318,10 @@
 315. - [x] [ 2335. Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) `***`
 316. - [x] [ 2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) `**`
 317. - [x] [ 2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) `***` `Practise sometime later`
-318. - [x] [ 39. Combination Sum](https://leetcode.com/problems/combination-sum/) `***` `Solve again using dfs`
-319. - [x] [ 40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `***`
-320. - [x] [ 46. Permutations](https://leetcode.com/problems/permutations/) `**`
+318. - [x] [ 39. Combination Sum](https://leetcode.com/problems/combination-sum/) `***` `Recursion` `Solve again using dfs`
+319. - [x] [ 40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `***` `Recursion`
+320. - [x] [ 46. Permutations](https://leetcode.com/problems/permutations/) `**` `Recursion`
+321. - [x] [ 47. Permutations II](https://leetcode.com/problems/permutations-ii/) `**` `Recursion`
 
 
 
