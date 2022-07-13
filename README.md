@@ -322,6 +322,7 @@
 319. - [x] [ 40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `***` `Recursion`
 320. - [x] [ 46. Permutations](https://leetcode.com/problems/permutations/) `**` `Recursion`
 321. - [x] [ 47. Permutations II](https://leetcode.com/problems/permutations-ii/) `**` `Recursion`
+322. - [x] [ 37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `****` `Backtracking`
 
 
 
