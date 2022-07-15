@@ -315,7 +315,7 @@
 312. - [x] [ 1974. Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) `*`
 313. - [x] [ 2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)
 314. - [x] [ 2333. Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) `***`
-315. - [x] [ 2335. Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) `***`
+315. - [x] [ 2335. Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) `***` `Tricky!`
 316. - [x] [ 2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) `**`
 317. - [x] [ 2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) `***` `Practise sometime later`
 318. - [x] [ 39. Combination Sum](https://leetcode.com/problems/combination-sum/) `***` `Recursion` `Solve again using dfs`
