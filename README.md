@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (324/1812 free problems/2340)
+### Leetcode (325/1812 free problems/2340)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -325,6 +325,7 @@
 322. - [x] [ 37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `****` `Backtracking` `Practise sometime later`
 323. - [x] [ 171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) `*`
 324. - [x] [ 36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)`***` `Practise sometime later`
+325. - [x] [ 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) `***` `Important!!` `Dequeue` `Solve again later`
 
 
 
