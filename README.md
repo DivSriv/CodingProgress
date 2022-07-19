@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (332/1812 free problems/2340)
+### Leetcode (333/1812 free problems/2340)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -333,6 +333,7 @@
 330. - [x] [ 84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) `****` `Stack` `Practise sometime later`
 331. - [x] [ 131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) `***` `Backtracking`
 332. - [x] [ 118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) `*`
+333. - [x] [ 2341. Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)
 
 
 
