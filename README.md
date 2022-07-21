@@ -348,5 +348,5 @@
 5. - [x] [ Move Element To End](https://www.algoexpert.io/questions/Move%20Element%20To%20End) `*`
 6. - [x] [ Search in Sorted Matrix](https://www.algoexpert.io/questions/Search%20In%20Sorted%20Matrix) `*`
 7. - [x] [ Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
-8. - [x] [ Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) `***`
-9. - [x] [ Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) `**`
+8. - [x] [ Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) `***` `GFG`
+9. - [x] [ Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) `**` `GFG`
