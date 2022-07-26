@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (344/1820 free problems/2354)
+### Leetcode (345/1820 free problems/2354)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -345,6 +345,7 @@
 342. - [x] [ 2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
 343. - [x] [ 2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) `**`
 344. - [x] [ 2350. Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) `****` `Tricky!` `Solve again later`
+345. - [x] [ 236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `***` `DFS`
 
 
 
