@@ -360,4 +360,4 @@
 8. - [x] [` HackerRank Problems - Solutions`](https://github.com/DivSriv/DSA-LeetcodeGFGHackerRank/tree/main/Problems/Solutions/HackerRank)
 9. - [x] [ Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) `***` `GFG`
 10. - [x] [ Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) `**` `GFG`
-11. - [x] [ Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0)
+11. - [x] [ Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012) `*`
