@@ -362,3 +362,4 @@
 9. - [x] [ Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) `***` `GFG`
 10. - [x] [ Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) `**` `GFG`
 11. - [x] [ Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012) `*`
+12. - [x] [ Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261) `*`
