@@ -1,6 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
-### Leetcode (347/1820 free problems/2354)
+### Leetcode (348/1820 free problems/2354)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -348,6 +348,7 @@
 345. - [x] [ 236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `***` `DFS`
 346. - [x] [ 213. House Robber II](https://leetcode.com/problems/house-robber-ii/) `**` `DP` 
 347. - [x] [ 119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+348. - [x] [ 890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) `**`
 
 
 
