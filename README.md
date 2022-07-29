@@ -368,3 +368,4 @@
 11. - [x] [ Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012) `*`
 12. - [x] [ Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261) `*`  [`Like House Robber`](https://leetcode.com/problems/house-robber/)
 13. - [x] [ Ninja’s Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003) `***`
+14. - [x] [ Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470)
