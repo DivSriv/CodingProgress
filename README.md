@@ -1,5 +1,6 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
+"🔒" means Locked and requires Premium
 ### Leetcode (354/1824 free problems/2360)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
@@ -354,7 +355,7 @@
 351. - [x] [ 63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) `***` `DP`
 352. - [x] [ 371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) `Tricky!`
 353. - [x] [ 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) `***` `DP`
-354. - [x] [ 252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) -- [ `Same as 920. Meeting Rooms`](https://www.lintcode.com/problem/920/)
+354. - [x] [ 252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms)🔒 -- [ `Same as 920. Meeting Rooms`](https://www.lintcode.com/problem/920/)
 
 
 
