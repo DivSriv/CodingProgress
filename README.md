@@ -375,6 +375,7 @@
 10. - [x] [ Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) `**` `GFG`
 11. - [x] [ Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012) `*`
 12. - [x] [ Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261) `*`  [`Like House Robber`](https://leetcode.com/problems/house-robber/)
-13. - [x] [ Ninja’s Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003) `***`
+13. - [x] [ Ninja’s Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003) `***` `DP`
 14. - [x] [ Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470)
 15. - [x] [ Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) `**` `GFG`
+16. - [x] [ N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) `**` `Greedy` `GFG`
