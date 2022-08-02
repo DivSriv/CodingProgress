@@ -1,7 +1,7 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
 "🔒" means Locked and requires Premium
-### Leetcode (357/1824 free problems/2360)
+### Leetcode (358/1824 free problems/2360)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -359,6 +359,7 @@
 355. - [x] [ 2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
 356. - [x] [ 2358. Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/) `**` `Tricky!`
 357. - [x] [ 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) `**` `Greedy`
+358. - [x] [ 378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) `***` `BS`
 
 
 
