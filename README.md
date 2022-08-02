@@ -355,7 +355,7 @@
 351. - [x] [ 63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) `***` `DP`
 352. - [x] [ 371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) `Tricky!`
 353. - [x] [ 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) `***` `DP`
-354. - [x] [ 252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms)🔒 -- [ `Same as 920. Meeting Rooms`](https://www.lintcode.com/problem/920/)
+354. - [x] [ 252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) [ `🔒`](https://www.lintcode.com/problem/920/) `*` 
 355. - [x] [ 2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
 356. - [x] [ 2358. Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/) `**` `Tricky!`
 
