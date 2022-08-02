@@ -379,3 +379,4 @@
 14. - [x] [ Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470)
 15. - [x] [ Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) `**` `GFG`
 16. - [x] [ N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) `**` `Greedy` `GFG`
+17. - [x] [ Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) `***` `Greedy` `GFG`
