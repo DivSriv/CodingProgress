@@ -1,7 +1,7 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
 "🔒" means Locked and requires Premium
-### Leetcode (368/1832 free problems/2370)
+### Leetcode (369/1832 free problems/2370)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -370,6 +370,7 @@
 366. - [x] [ 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 367. - [x] [ 1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) `***` `Practise sometime later`
 368. - [x] [ 538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) `Same as above`
+369. - [x] [ 2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) `*`
 
 
 
