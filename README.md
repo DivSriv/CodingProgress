@@ -1,7 +1,7 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
 "🔒" means Locked and requires Premium
-### Leetcode (385/1832 free problems/2370)
+### Leetcode (386/1832 free problems/2370)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -387,6 +387,7 @@
 383. - [x] [ 111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) `*` `DFS` `BFS`
 384. - [x] [ 124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) `****`
 385. - [x] [ 543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `**` `Imp Concept`
+386. - [x] [ 110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) `**`
 
 
 
