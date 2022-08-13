@@ -1,7 +1,7 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
 "🔒" means Locked and requires Premium
-### Leetcode (387/1832 free problems/2371)
+### Leetcode (388/1832 free problems/2371)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -389,6 +389,7 @@
 385. - [x] [ 543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `**` `Imp Concept`
 386. - [x] [ 110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) `**`
 387. - [x] [ 103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) `***`
+388. - [x] [ 2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
 
 
 
