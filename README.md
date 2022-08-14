@@ -1,7 +1,7 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
 "🔒" means Locked and requires Premium
-### Leetcode (390/1836 free problems/2376)
+### Leetcode (391/1836 free problems/2376)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -392,6 +392,7 @@
 388. - [x] [ 2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
 389. - [x] [ 2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) `***`
 390. - [x] [ 2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
+391. - [x] [ 2374. Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/) `***`
 
 
 
