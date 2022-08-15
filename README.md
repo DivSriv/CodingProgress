@@ -1,7 +1,7 @@
 # Leetcode Progress
 <!-- ## Leetcode & Algoexpert progress -->
 "🔒" means Locked and requires Premium
-### Leetcode (392/1836 free problems/2376)
+### Leetcode (393/1836 free problems/2376)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -394,6 +394,7 @@
 390. - [x] [ 2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 391. - [x] [ 2374. Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/) `***`
 392. - [x] [ 545. Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/) [ `🔒`](https://www.lintcode.com/problem/878/) `***`  
+393. - [x] [ 987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) `****`
 
 
 
