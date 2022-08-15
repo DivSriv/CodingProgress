@@ -407,13 +407,14 @@
 6. - [x] [ Search in Sorted Matrix](https://www.algoexpert.io/questions/Search%20In%20Sorted%20Matrix) `*`
 7. - [x] [ Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
 8. - [x] [` HackerRank Problems - Solutions`](https://github.com/DivSriv/DSA-LeetcodeGFGHackerRank/tree/main/Problems/Solutions/HackerRank)
-9. - [x] [ Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) `***` `GFG`
-10. - [x] [ Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) `**` `GFG`
-11. - [x] [ Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012) `*`
-12. - [x] [ Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261) `*`  [`Like House Robber`](https://leetcode.com/problems/house-robber/)
-13. - [x] [ Ninja’s Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003) `***` `DP`
-14. - [x] [ Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470)
-15. - [x] [ Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) `**` `GFG`
-16. - [x] [ N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) `**` `Greedy` `GFG`
-17. - [x] [ Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) `***` `Greedy` `GFG`
-18. - [x] [ Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0) `***` `GFG`
+9. - [x] [` GeeksForGeeks Problems - Solutions`](https://github.com/DivSriv/DSA-LeetcodeGFGHackerRank/tree/main/Problems/Solutions/GFG)
+10. - [x] [ Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) `***` `GFG`
+11. - [x] [ Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) `**` `GFG`
+12. - [x] [ Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012) `*`
+13. - [x] [ Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261) `*`  [`Like House Robber`](https://leetcode.com/problems/house-robber/)
+14. - [x] [ Ninja’s Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003) `***` `DP`
+15. - [x] [ Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470)
+16. - [x] [ Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) `**` `GFG`
+17. - [x] [ N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) `**` `Greedy` `GFG`
+18. - [x] [ Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) `***` `Greedy` `GFG`
+19. - [x] [ Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0) `***` `GFG`
