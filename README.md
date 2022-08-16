@@ -1,5 +1,5 @@
 # Leetcode Progress
-<!-- ## Leetcode & Algoexpert progress -->
+
 "🔒" means Locked and requires Premium
 ### Leetcode (394/1836 free problems/2376)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
@@ -400,7 +400,7 @@
 
 
 
-### Others 
+### Other Platforms
 1. - [x] [ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
 2. - [x] [ Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
 3. - [x] [ Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
@@ -420,3 +420,4 @@
 17. - [x] [ N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) `**` `Greedy` `GFG`
 18. - [x] [ Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) `***` `Greedy` `GFG`
 19. - [x] [ Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0) `***` `GFG`
+20. - [x] [ Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/0) `***` `GFG`
