@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (396/1876 free problems/2378)
+### Leetcode (397/1876 free problems/2378)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -398,6 +398,7 @@
 394. - [x] [ 387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) `**`
 395. - [x] [ 199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `**`
 396. - [x] [ 101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) `*`
+397. - [x] [ 637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) `*`
 
 
 
