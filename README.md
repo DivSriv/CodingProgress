@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (403/1884 free problems/2386)
+### Leetcode (404/1884 free problems/2386)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -405,6 +405,7 @@
 401. - [x] [ 2380. Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) `**`
 402. - [x] [ 2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) `***` `Optimization is important`
 403. - [x] [ 2383. Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)
+404. - [x] [ 134. Gas Station](https://leetcode.com/problems/gas-station/) `***` `Greedy`
 
 
 
