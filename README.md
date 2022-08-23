@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (406/1884 free problems/2386)
+### Leetcode (407/1884 free problems/2386)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -408,6 +408,7 @@
 404. - [x] [ 134. Gas Station](https://leetcode.com/problems/gas-station/) `***` `Greedy`
 405. - [x] [ 931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) `***` `DP`
 406. - [x] [ 116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) `***`
+407. - [x] [ 1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) `****` `DP`
 
 
 
