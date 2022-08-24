@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (408/1884 free problems/2386)
+### Leetcode (409/1884 free problems/2387)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -410,6 +410,7 @@
 406. - [x] [ 116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) `***`
 407. - [x] [ 1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) `****` `DP`
 408. - [x] [ 1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) `****` `DP` `Solve again later`
+409. - [x] [ 662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) `***` `Practise sometime later`
 
 
 
