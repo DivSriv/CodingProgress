@@ -445,3 +445,4 @@
 20. - [x] [ Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/0) `***` `GFG`
 21. - [x] [ Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) `**` `GFG`
 22. - [x] [ Path to Given Node](https://www.interviewbit.com/problems/path-to-given-node/) `**`
+23. - [x] [ Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1) `*`
