@@ -418,6 +418,7 @@
 414. - [x] [ 2217. Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/) `***` `Practise sometime later`
 415. - [x] [ 1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) `***`
 416. - [x] [ 871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) `****` `Practise sometime later`
+417. - [x] [ 2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) `****` `DP`
 
 
 
