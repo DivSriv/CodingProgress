@@ -419,6 +419,7 @@
 415. - [x] [ 1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) `***`
 416. - [x] [ 871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) `****` `Practise sometime later`
 417. - [x] [ 2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) `****` `DP`
+418. - [x] [ 1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) `**` `DFS`
 
 
 
