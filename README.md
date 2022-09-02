@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (419/1888 free problems/2392)
+### Leetcode (420/1888 free problems/2392)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -421,6 +421,7 @@
 417. - [x] [ 2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) `****` `DP`
 418. - [x] [ 1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) `**` `DFS`
 419. - [x] [ 2201. Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) `***`
+420. - [x] [ 2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/)
 
 
 
