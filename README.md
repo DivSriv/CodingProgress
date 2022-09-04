@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (423/1888 free problems/2392)
+### Leetcode (424/1888 free problems/2392)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -425,6 +425,7 @@
 421. - [x] [ 2170. Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) `***` `Greedy` `Practise sometime later`
 422. - [x] [ 2171. Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) `***` `Tricky!`
 423. - [x] [ 222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) `**`
+424. - [x] [ 2400. Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) `***` `Combinatorics - Math`
 
 
 
