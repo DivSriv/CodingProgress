@@ -457,3 +457,4 @@
 21. - [x] [ Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) `**` `GFG`
 22. - [x] [ Path to Given Node](https://www.interviewbit.com/problems/path-to-given-node/) `**`
 23. - [x] [ Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1) `*`
+24. - [x] [ Angle between hour and minute hand](https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1)
