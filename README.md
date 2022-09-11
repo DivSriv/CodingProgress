@@ -429,6 +429,7 @@
 425. - [x] [ 2391. Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) `**`
 426. - [x] [ 814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) `**`
 427. - [x] [ 429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) `***`
+428. - [x] [ 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `***` `Imp`
 
 
 
