@@ -461,3 +461,4 @@
 23. - [x] [ Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1) `*` `GFG`
 24. - [x] [ Angle between hour and minute hand](https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) `GFG`
 25. - [x] [ Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) `***` `GFG`
+26. - [x] [ Minimum cost of choosing 3 increasing elements in an array of size N](https://www.geeksforgeeks.org/minimum-cost-of-choosing-3-increasing-elements-in-an-array-of-size-n/) `***` `GFG` `Practice sometime later`
