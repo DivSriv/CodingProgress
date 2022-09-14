@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (429/1900 free problems/2407)
+### Leetcode (430/1900 free problems/2407)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -431,6 +431,7 @@
 427. - [x] [ 429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) `***`
 428. - [x] [ 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `***` `Imp`
 429. - [x] [ 297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) `***` `Imp` `Nice Ques`
+430. - [x] [ 2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) `*`
 
 
 
