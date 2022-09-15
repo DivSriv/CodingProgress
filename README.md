@@ -464,3 +464,4 @@
 24. - [x] [ Angle between hour and minute hand](https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) `GFG`
 25. - [x] [ Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) `***` `GFG`
 26. - [x] [ Minimum cost of choosing 3 increasing elements in an array of size N](https://www.geeksforgeeks.org/minimum-cost-of-choosing-3-increasing-elements-in-an-array-of-size-n/) `***` `GFG` `Practice sometime later`
+27. - [x] [ Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) `***` `8 directions` [`Number of Islands - 4 directions`](https://leetcode.com/problems/number-of-islands/) 
