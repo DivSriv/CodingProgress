@@ -374,7 +374,7 @@
 370. - [x] [ 2368. Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/) `***` `DFS` `BFS` `Practise sometime later`
 371. - [x] [ 2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) `***` `DP`
 372. - [x] [ 144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-373. - [x] [ 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+373. - [x] [ 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) `Morris Traversal` ✅ 
 374. - [x] [ 145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 375. - [x] [ 102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) `***` `BFS`
 376. - [x] [ 823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) `****` `DP` `Hashmap`
