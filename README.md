@@ -469,3 +469,4 @@
 26. - [x] [ Minimum cost of choosing 3 increasing elements in an array of size N](https://www.geeksforgeeks.org/minimum-cost-of-choosing-3-increasing-elements-in-an-array-of-size-n/) `***` `GFG` `Practice sometime later`
 27. - [x] [ Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) `***` `8 directions` [`Number of Islands - 4 directions`](https://leetcode.com/problems/number-of-islands/) 
 28. - [x] [ Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/) `**`
+29. - [x] [ Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/)
