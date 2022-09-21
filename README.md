@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (438/1908 free problems/2416)
+### Leetcode (439/1908 free problems/2416)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -440,6 +440,7 @@
 436. - [x] [ 260. Single Number III](https://leetcode.com/problems/single-number-iii/) `***` `Bit Manipulation` `Practise sometime later`
 437. - [x] [ 201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) `**` `Tricky!`
 438. - [x] [ 700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+439. - [x] [ 701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) `*`
 
 
 
