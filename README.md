@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (441/1908 free problems/2416)
+### Leetcode (442/1908 free problems/2416)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -443,6 +443,7 @@
 439. - [x] [ 701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) `*`
 440. - [x] [ 1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
 441. - [x] [ 450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) `***`
+442. - [x] [ 230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) `**`
 
 
 
