@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (450/1908 free problems/2417)
+### Leetcode (450/1912 free problems/2421)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -485,3 +485,4 @@
 27. - [x] [ Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) `***` `8 directions` [`Number of Islands - 4 directions`](https://leetcode.com/problems/number-of-islands/) 
 28. - [x] [ Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/) `**`
 29. - [x] [ Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/)
+30. - [x] [ Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1) `***` `GFG`
