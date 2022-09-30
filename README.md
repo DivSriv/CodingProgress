@@ -491,3 +491,4 @@
 28. - [x] [ Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/) `**`
 29. - [x] [ Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
 30. - [x] [ Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1) `***` `GFG`
+31. - [x] [ Replace O's with X's](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1) `***` `GFG`
