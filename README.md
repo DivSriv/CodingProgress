@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (456/1912 free problems/2422)
+### Leetcode (457/1912 free problems/2422)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -458,6 +458,7 @@
 454. - [x] [ 130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) `***` `Nice Q`
 455. - [x] [ 2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)
 456. - [x] [ 1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) `**`
+457. - [x] [ 547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) `*`
 
  
 
