@@ -462,7 +462,7 @@
 458. - [x] [ 2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 459. - [x] [ 2150. Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) `***`
 460. - [x] [ 694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) [ `🔒`](https://www.lintcode.com/problem/860/) `***`
-461. - [x] [ 658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) `***` `Nice Q` `BS`
+461. - [x] [ 658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) `***` `Nice Q` `BS` `Java✅ JavaScript✅`
 
  
 
