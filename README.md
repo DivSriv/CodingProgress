@@ -499,3 +499,4 @@
 31. - [x] [ Replace O's with X's](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1) `***` `GFG`
 32. - [x] [ Number Of Enclaves](https://practice.geeksforgeeks.org/problems/number-of-enclaves/1) `**` `GFG`
 33. - [x] [ Number of Distinct Islands](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1) `***` `GFG`
+34. - [x] [ Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) `***` `GFG`
