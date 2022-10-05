@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (459/1912 free problems/2430)
+### Leetcode (460/1912 free problems/2430)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -461,6 +461,7 @@
 457. - [x] [ 547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) `*`
 458. - [x] [ 2418. Sort the People](https://leetcode.com/problems/sort-the-people/)
 459. - [x] [ 2150. Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) `***`
+460. - [x] [ 694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) [ `🔒`](https://www.lintcode.com/problem/860/) `***`
 
  
 
