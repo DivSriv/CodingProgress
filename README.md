@@ -504,3 +504,4 @@
 34. - [x] [ Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) `***` `GFG`
 35. - [x] [ Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) `***` `GFG`
 36. - [x] [ Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) `Imp` `GFG`
+37. - [x] [ Eventual Safe States](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1) `**`
