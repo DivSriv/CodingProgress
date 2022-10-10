@@ -7,7 +7,7 @@
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 4. - [x] [ 704. Binary Search](https://leetcode.com/problems/binary-search/)
 5. - [x] [ 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-6. - [x] [ 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) `***` `Practise sometime later`
+6. - [x] [ 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) `***` `Practise sometime later` `Java✅ JavaScript✅`
 7. - [x] [ 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 8. - [x] [ 162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 9. - [x] [ 268. Missing Number](https://leetcode.com/problems/missing-number/)
