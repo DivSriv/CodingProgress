@@ -150,7 +150,7 @@
 146. - [x] [ 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `*`
 147. - [x] [ 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `**` `Practise sometime later`
 148. - [x] [ 202. Happy Number](https://leetcode.com/problems/happy-number/) `**` `LL slow-fast approach used` `Tricky!` 
-149. - [x] [ 2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) `**`
+149. - [x] [ 2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) `**` `Java✅ JavaScript✅`
 150. - [x] [ 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `*`
 151. - [x] [ 148. Sort List](https://leetcode.com/problems/sort-list/) `***` `Practise sometime later`
 152. - [x] [ 147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) `**`
