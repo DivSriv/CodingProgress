@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (468/2440)
+### Leetcode (469/2440)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -470,6 +470,7 @@
 466. - [x] [ 328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) `***`
 467. - [x] [ 707. Design Linked List](https://leetcode.com/problems/design-linked-list/) `***`
 468. - [x] [ 269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) [ `🔒`](https://www.lintcode.com/problem/892/) `****`
+469. - [x] [ 2428. Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) `*` `Java✅ JavaScript✅`
 
 
  
