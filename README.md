@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (469/2440)
+### Leetcode (469/2444)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -52,7 +52,7 @@
 48. - [x] [ 1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) `**`
 49. - [x] [ 1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 50. - [x] [ 1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
-51. - [x] [ 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+51. - [x] [ 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) `Java✅ JavaScript✅`
 52. - [x] [ 2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) 
 53. - [x] [ 2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) `**` 
 54. - [x] [ 832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
