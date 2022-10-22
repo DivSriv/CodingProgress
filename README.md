@@ -519,3 +519,4 @@
 38. - [x] [ Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1)
 39. - [x] [ Course Schedule](https://practice.geeksforgeeks.org/problems/course-schedule/1) `**`
 40. - [x] [ Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) `***`
+41. - [x] [ Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1) `**`
