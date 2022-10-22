@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (472/2445)
+### Leetcode (473/2445)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -474,6 +474,7 @@
 470. - [x] [ 560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) `***` `Practise sometime later` `Java✅ JavaScript✅`
 471. - [x] [ 2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) `**` `Java✅ JavaScript✅`
 472. - [x] [ 219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) `*` `Java✅ JavaScript✅`
+473. - [x] [ 1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `*` `Stack` `Java✅ JavaScript✅`
 
 
  
