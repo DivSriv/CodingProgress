@@ -475,7 +475,7 @@
 471. - [x] [ 2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) `**` `Java✅ JavaScript✅`
 472. - [x] [ 219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) `*` `Java✅ JavaScript✅`
 473. - [x] [ 1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `*` `Stack` `Java✅ JavaScript✅`
-474. - [x] [ 1884. Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) `***` `Tricky!` `Practise sometime later` `Java✅ JavaScript✅`
+474. - [x] [ 1884. Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) `***` `Tricky!` `DP` `Practise sometime later` `Java✅ JavaScript✅`
 
 
  
@@ -522,3 +522,4 @@
 39. - [x] [ Course Schedule](https://practice.geeksforgeeks.org/problems/course-schedule/1) `**`
 40. - [x] [ Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) `***`
 41. - [x] [ Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1) `**`
+42. - [x] [ Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1) `***` `GFG` `DP`
