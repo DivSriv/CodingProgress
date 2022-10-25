@@ -483,45 +483,46 @@
  
 
 ### Other Platforms
-1. - [x] [ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
+<!-- 1. - [x] [ Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
 2. - [x] [ Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
 3. - [x] [ Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
 4. - [x] [ Sorted Squared Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array) `*`
 5. - [x] [ Move Element To End](https://www.algoexpert.io/questions/Move%20Element%20To%20End) `*`
 6. - [x] [ Search in Sorted Matrix](https://www.algoexpert.io/questions/Search%20In%20Sorted%20Matrix) `*`
-7. - [x] [ Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
-8. - [x] [` HackerRank Problems - Solutions`](https://github.com/DivSriv/DSA-LeetcodeGFGHackerRank/tree/main/Problems/Solutions/HackerRank)
-9. - [x] [` GeeksForGeeks Problems - Solutions`](https://github.com/DivSriv/DSA-LeetcodeGFGHackerRank/tree/main/Problems/Solutions/GFG)
-10. - [x] [ Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) `***` `GFG`
-11. - [x] [ Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) `**` `GFG`
-12. - [x] [ Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012) `*`
-13. - [x] [ Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261) `*`  [`Like House Robber`](https://leetcode.com/problems/house-robber/)
-14. - [x] [ Ninja’s Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003) `***` `DP`
-15. - [x] [ Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470)
-16. - [x] [ Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) `**` `GFG`
-17. - [x] [ N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) `**` `Greedy` `GFG`
-18. - [x] [ Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) `***` `Greedy` `GFG`
-19. - [x] [ Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0) `***` `GFG`
-20. - [x] [ Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/0) `***` `GFG`
-21. - [x] [ Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) `**` `GFG`
-22. - [x] [ Path to Given Node](https://www.interviewbit.com/problems/path-to-given-node/) `**`
-23. - [x] [ Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1) `*` `GFG`
-24. - [x] [ Angle between hour and minute hand](https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) `GFG`
-25. - [x] [ Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) `***` `GFG`
-26. - [x] [ Minimum cost of choosing 3 increasing elements in an array of size N](https://www.geeksforgeeks.org/minimum-cost-of-choosing-3-increasing-elements-in-an-array-of-size-n/) `***` `GFG` `Practice sometime later`
-27. - [x] [ Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) `***` `8 directions` [`Number of Islands - 4 directions`](https://leetcode.com/problems/number-of-islands/) 
-28. - [x] [ Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/) `**`
-29. - [x] [ Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
-30. - [x] [ Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1) `***` `GFG`
-31. - [x] [ Replace O's with X's](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1) `***` `GFG`
-32. - [x] [ Number Of Enclaves](https://practice.geeksforgeeks.org/problems/number-of-enclaves/1) `**` `GFG`
-33. - [x] [ Number of Distinct Islands](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1) `***` `GFG`
-34. - [x] [ Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) `***` `GFG`
-35. - [x] [ Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) `***` `GFG`
-36. - [x] [ Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) `Imp` `GFG`
-37. - [x] [ Eventual Safe States](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1) `**`
-38. - [x] [ Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1)
-39. - [x] [ Course Schedule](https://practice.geeksforgeeks.org/problems/course-schedule/1) `**`
-40. - [x] [ Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) `***`
-41. - [x] [ Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1) `**`
-42. - [x] [ Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1) `***` `GFG` `DP`
+7. - [x] [ Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci) -->
+
+1. - [x] [` HackerRank Problems - Solutions`](https://github.com/DivSriv/DSA-LeetcodeGFGHackerRank/tree/main/Problems/Solutions/HackerRank)
+2. - [x] [` GeeksForGeeks Problems - Solutions`](https://github.com/DivSriv/DSA-LeetcodeGFGHackerRank/tree/main/Problems/Solutions/GFG)
+3. - [x] [ Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) `***` `GFG`
+4. - [x] [ Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) `**` `GFG`
+5. - [x] [ Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012) `*`
+6. - [x] [ Maximum sum of non-adjacent elements](https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261) `*`  [`Like House Robber`](https://leetcode.com/problems/house-robber/)
+7. - [x] [ Ninja’s Training](https://www.codingninjas.com/codestudio/problems/ninja-s-training_3621003) `***` `DP`
+8. - [x] [ Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470)
+9. - [x] [ Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) `**` `GFG`
+10. - [x] [ N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) `**` `Greedy` `GFG`
+11. - [x] [ Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) `***` `Greedy` `GFG`
+12. - [x] [ Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0) `***` `GFG`
+13. - [x] [ Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/0) `***` `GFG`
+14. - [x] [ Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) `**` `GFG`
+15. - [x] [ Path to Given Node](https://www.interviewbit.com/problems/path-to-given-node/) `**`
+16. - [x] [ Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1) `*` `GFG`
+17. - [x] [ Angle between hour and minute hand](https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) `GFG`
+18. - [x] [ Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) `***` `GFG`
+19. - [x] [ Minimum cost of choosing 3 increasing elements in an array of size N](https://www.geeksforgeeks.org/minimum-cost-of-choosing-3-increasing-elements-in-an-array-of-size-n/) `***` `GFG` `Practice sometime later`
+20. - [x] [ Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) `***` `8 directions` [`Number of Islands - 4 directions`](https://leetcode.com/problems/number-of-islands/) 
+21. - [x] [ Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/) `**`
+22. - [x] [ Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
+23. - [x] [ Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1) `***` `GFG`
+24. - [x] [ Replace O's with X's](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1) `***` `GFG`
+25. - [x] [ Number Of Enclaves](https://practice.geeksforgeeks.org/problems/number-of-enclaves/1) `**` `GFG`
+26. - [x] [ Number of Distinct Islands](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1) `***` `GFG`
+27. - [x] [ Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) `***` `GFG`
+28. - [x] [ Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) `***` `GFG`
+29. - [x] [ Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) `Imp` `GFG`
+30. - [x] [ Eventual Safe States](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1) `**`
+31. - [x] [ Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1)
+32. - [x] [ Course Schedule](https://practice.geeksforgeeks.org/problems/course-schedule/1) `**`
+33. - [x] [ Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) `***`
+34. - [x] [ Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1) `**`
+35. - [x] [ Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1) `***` `GFG` `DP`
