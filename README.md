@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (477/2449)
+### Leetcode (478/2449)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -479,6 +479,7 @@
 475. - [x] [ 2414. Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) `***` `Practise sometime later` `Java✅ JavaScript✅`
 476. - [x] [ 2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) `Java✅ JavaScript✅`
 477. - [x] [ 523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) `***` `Practise sometime later` `Java✅ JavaScript✅`
+478. - [x] [ 1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `***` `Java✅ JavaScript✅`
 
 
  
