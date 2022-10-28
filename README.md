@@ -215,7 +215,7 @@
 211. - [x] [ 13. Roman to Integer.](https://leetcode.com/problems/roman-to-integer/)
 212. - [x] [ 925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) `*`
 213. - [x] [ 18. 4 Sum](https://leetcode.com/problems/4sum/) `***` `Practise sometime later`
-214. - [x] [ 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) `***`
+214. - [x] [ 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) `***` `Java✅ JavaScript✅`
 215. - [x] [ 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) `***` `Meeting Room I & II Similar` `Practise again`
 216. - [x] [ 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) `**`
 217. - [x] [ 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
