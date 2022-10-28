@@ -528,3 +528,4 @@
 33. - [x] [ Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) `***`
 34. - [x] [ Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1) `**`
 35. - [x] [ Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1) `***` `GFG` `DP`
+36. - [x] [ Shortest path in Directed Acyclic Graph](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)
