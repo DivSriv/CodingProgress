@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (480/2458)
+### Leetcode (481/2458)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -482,6 +482,7 @@
 478. - [x] [ 1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `***` `Java✅ JavaScript✅`
 479. - [x] [ 127. Word Ladder](https://leetcode.com/problems/word-ladder/) `****` `BFS` `Java✅ JavaScript✅`
 480. - [x] [ 2455. Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)
+481. - [x] [ 2456. Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) `**`
 
 
  
