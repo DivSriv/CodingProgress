@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (484/2458)
+### Leetcode (485/2458)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -486,6 +486,7 @@
 482. - [x] [ 2457. Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) `***`
 483. - [x] [ 766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) `*` `Java✅ JavaScript✅`
 484. - [x] [ 2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) `*` `Java✅ JavaScript✅`
+485. - [x] [ 2079. Watering Plants](https://leetcode.com/problems/watering-plants/) `*` `Java✅ JavaScript✅`
 
 
  
