@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (487/2459)
+### Leetcode (488/2459)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -489,6 +489,7 @@
 485. - [x] [ 2079. Watering Plants](https://leetcode.com/problems/watering-plants/) `*` `Java✅ JavaScript✅`
 486. - [x] [ 1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) `**` `Java✅ JavaScript✅`
 487. - [x] [ 1860. Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/) `**` `Java✅ JavaScript✅`
+488. - [x] [ 345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) `*`
 
 
  
