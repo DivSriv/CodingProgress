@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (490/2463)
+### Leetcode (491/2463)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/)
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -492,6 +492,7 @@
 488. - [x] [ 345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) `*`
 489. - [x] [ 1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) `**` `Java✅ JavaScript✅`
 490. - [x] [ 2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) `Java✅ JavaScript✅`
+491. - [x] [ 1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) `Java✅ JavaScript✅`
 
 
  
