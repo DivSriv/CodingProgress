@@ -65,7 +65,7 @@
 61. - [x] [ 1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 62. - [x] [ 1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 63. - [x] [ 1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-64. - [x] [ 26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+64. - [x] [ 26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) `*` `Java✅ JavaScript✅`
 65. - [x] [ 1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) `Tricky!`
 66. - [x] [ 441. Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/) `*`
 67. - [x] [ 1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) `***`
