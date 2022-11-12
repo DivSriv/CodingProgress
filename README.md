@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (494/2468)
+### Leetcode (495/2468)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -496,6 +496,7 @@
 492. - [x] [ 1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) `***` `Practise with KMP` `Java✅ JavaScript✅`
 493. - [x] [ 901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) `**`
 494. - [x] [ 1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) `*` `Java✅ JavaScript✅`
+495. - [x] [ 1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/) `**`
 
 
  
