@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (497/2472)
+### Leetcode (498/2472)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -499,6 +499,7 @@
 495. - [x] [ 1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/) `**`
 496. - [x] [ 151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) `*`
 497. - [x] [ 2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)
+498. - [x] [ 2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)
 
 
  
