@@ -502,6 +502,7 @@
 498. - [x] [ 2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)
 499. - [x] [ 2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) `**`
 500. - [x] [ 2427. Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)
+501. - [x] [ 1409. Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) `***` `Practise optimized approach using Fenwick tree`
 
 
  
