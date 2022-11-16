@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (500/2472)
+### Leetcode (501/2472)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -46,7 +46,7 @@
 42. - [x] [ 2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) 
 43. - [x] [ 1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 44. - [x] [ 1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
-45. - [x] [ 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) `**`
+45. - [x] [ 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) `**` `Java✅ JavaScript✅`
 46. - [x] [ 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) `**`
 47. - [x] [ 66. Plus One](https://leetcode.com/problems/plus-one/)
 48. - [x] [ 1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) `**`
