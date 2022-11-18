@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (502/2473)
+### Leetcode (503/2473)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -504,6 +504,7 @@
 500. - [x] [ 2427. Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)
 501. - [x] [ 1409. Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) `***` `Practise optimized approach using Fenwick tree`
 502. - [x] [ 223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) `*`
+503. - [x] [ 263. Ugly Number](https://leetcode.com/problems/ugly-number/)
 
 
  
