@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (507/2478)
+### Leetcode (508/2478)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -509,6 +509,7 @@
 505. - [x] [ 2447. Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) `***`
 506. - [x] [ 2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) `***` `Sliding Window` `Bit Manipulation` `Java✅ JavaScript✅`
 507. - [x] [ 279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) `***` `DP` `Java✅ JavaScript✅`
+508. - [x] [ 2476. Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) `***` `Practise sometime later`
 
 
  
