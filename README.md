@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (509/2480)
+### Leetcode (510/2480)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -511,6 +511,7 @@
 507. - [x] [ 279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) `***` `DP` `Java✅ JavaScript✅`
 508. - [x] [ 2476. Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) `***` `Practise sometime later`
 509. - [x] [ 2446. Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)
+510. - [x] [ 541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 
 
  
