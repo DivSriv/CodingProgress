@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (511/2484)
+### Leetcode (512/2484)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -513,6 +513,7 @@
 509. - [x] [ 2446. Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)
 510. - [x] [ 541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 511. - [x] [ 2177. Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)
+512. - [x] [ 2481. Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)
 
 
  
