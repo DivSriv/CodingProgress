@@ -566,3 +566,4 @@
 36. - [x] [ Shortest path in Directed Acyclic Graph](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)
 37. - [x] [ Shortest path in Undirected Graph having unit distance](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)
 38. - [x] [ Word Ladder I](https://practice.geeksforgeeks.org/problems/word-ladder/1)
+39. - [x] [ Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)
