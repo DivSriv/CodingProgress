@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (517/2484)
+### Leetcode (518/2484)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -519,6 +519,7 @@
 515. - [x] [ 413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) `**` `Java✅ JavaScript✅`
 516. - [x] [ 2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) `**`
 517. - [x] [ 2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)
+518. - [x] [ 2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) `**`
 
 
  
