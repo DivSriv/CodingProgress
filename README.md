@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (520/2489)
+### Leetcode (521/2489)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -522,6 +522,7 @@
 518. - [x] [ 2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) `**` `Java✅ JavaScript✅`
 519. - [x] [ 1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 520. - [x] [ 1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) `***`
+521. - [x] [ 1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) `**` `Java✅` `little tricky!`
 
 
  
