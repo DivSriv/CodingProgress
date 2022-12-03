@@ -523,8 +523,8 @@
 519. - [x] [ 1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 520. - [x] [ 1992. Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) `***`
 521. - [x] [ 1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) `**` `Java✅` `little tricky!`
-522. - [x] [ 446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) `****` `Practise sometime later`
-523. - [x] [ 451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) `***` `Practise sometime later` `Java✅ JavaScript✅`
+522. - [x] [ 446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) `****` `Practise sometime later` `DP` `Java✅`
+523. - [x] [ 451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) `***` `Practise sometime later` `JavaScript✅`
 
 
  
