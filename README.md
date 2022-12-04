@@ -157,7 +157,7 @@
 153. - [x] [ 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `*` `Practise sometime later`
 154. - [x] [ 905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) `**` `Take a look later`
 155. - [x] [ 2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) `*` `nice use String.prototype.indexOf()`
-156. - [x] [ 2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) `**`
+156. - [x] [ 2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) `**` `Java✅ JavaScript✅`
 157. - [x] [ 2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) `***` `Practise sometime later`
 158. - [x] [ 2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) `***` `Tricky!` 
 159. - [x] [ 92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `***` `Practise sometime later`
