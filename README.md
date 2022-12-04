@@ -525,6 +525,7 @@
 521. - [x] [ 1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) `**` `Java✅` `little tricky!`
 522. - [x] [ 446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) `****` `Practise sometime later` `DP` `Java✅`
 523. - [x] [ 451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) `***` `Practise sometime later` `JavaScript✅`
+524. - [x] [ 2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) `**` `Java✅ JavaScript✅`
 
 
  
