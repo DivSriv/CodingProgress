@@ -28,7 +28,7 @@
 24. - [x] [ 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 25. - [x] [ 344. Reverse String](https://leetcode.com/problems/reverse-string/)
 26. - [x] [ 557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) `***`
-27. - [x] [ 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+27. - [x] [ 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `Java✅ JavaScript✅`
 28. - [x] [ 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `***` 
 29. - [x] [ 1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) `Tricky!`
 30. - [x] [ 1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
