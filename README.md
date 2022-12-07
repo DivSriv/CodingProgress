@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (526/2495)
+### Leetcode (527/2495)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -528,6 +528,7 @@
 524. - [x] [ 2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) `**` `Java✅ JavaScript✅`
 525. - [x] [ 1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) `**` `Math` `Java✅ JavaScript✅`
 526. - [x] [ 2443. Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/) `*` `Math` `Java✅ JavaScript✅`
+527. - [x] [ 938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) `Java✅ JavaScript✅`
 
 
  
