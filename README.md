@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (529/2495)
+### Leetcode (530/2495)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -531,6 +531,7 @@
 527. - [x] [ 938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) `Java✅ JavaScript✅`
 528. - [x] [ 24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) `*` `Java✅ JavaScript✅`
 529. - [x] [ 872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+530. - [x] [ 1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) `***` `Practise sometime later` 
 
 
  
