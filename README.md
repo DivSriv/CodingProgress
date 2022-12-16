@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (534/2505)
+### Leetcode (535/2505)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -536,6 +536,7 @@
 532. - [x] [ 2500. Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/)
 533. - [x] [ 2432. The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)
 534. - [x] [ 1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) `**` `Nice Q`
+535. - [x] [ 2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 
 
  
