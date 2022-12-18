@@ -537,6 +537,7 @@
 533. - [x] [ 2432. The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)
 534. - [x] [ 1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) `**` `Nice Q`
 535. - [x] [ 2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
+536. - [x] [ 739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) `**`
 
 
  
