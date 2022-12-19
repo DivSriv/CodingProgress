@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (536/2509)
+### Leetcode (537/2509)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -538,6 +538,7 @@
 534. - [x] [ 1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) `**` `Nice Q`
 535. - [x] [ 2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 536. - [x] [ 739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) `**`
+537. - [x] [ 2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) `***` 
 
 
  
