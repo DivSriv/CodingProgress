@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (539/2510)
+### Leetcode (540/2510)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -541,6 +541,7 @@
 537. - [x] [ 2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) `***` 
 538. - [x] [ 841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) `**`
 539. - [x] [ 2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/) `*` `Practice BitMask method`
+540. - [x] [ 2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) `*`
 
 
  
