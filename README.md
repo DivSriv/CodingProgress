@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (542/2510)
+### Leetcode (542/2518)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
