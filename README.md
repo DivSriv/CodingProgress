@@ -139,7 +139,7 @@
 135. - [x] [ 885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) `***` `Practise sometime later`
 136. - [x] [ 75. Sort Colors](https://leetcode.com/problems/sort-colors/) `*`
 137. - [x] [ 198. House Robber](https://leetcode.com/problems/house-robber/) `**` `DP` `Practise sometime later` `Tricky!`
-138. - [x] [ 55. Jump Game](https://leetcode.com/problems/jump-game/) `***` `Practise sometime later` `DP` `Greedy`
+138. - [x] [ 55. Jump Game](https://leetcode.com/problems/jump-game/) `***` `Practise sometime later` `DP` `Greedy` `Java✅ JavaScript✅`
 139. - [x] [ 600. Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) `****` `Practise sometime later` `DP`
 140. - [x] [ 1250. Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) `***` `Mathematical`
 141. - [x] [ 436. Find Right Interval](https://leetcode.com/problems/find-right-interval/) `***`
