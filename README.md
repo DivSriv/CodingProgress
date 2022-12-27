@@ -221,7 +221,7 @@
 217. - [x] [ 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 218. - [x] [ 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 219. - [x] [ 2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
-220. - [x] [ 2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+220. - [x] [ 2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) `**` `Java✅ JavaScript✅`
 221. - [x] [ 2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) `***`
 222. - [x] [ 647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) `***`
 223. - [x] [ 1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) `**`
