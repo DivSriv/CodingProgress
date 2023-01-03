@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (549/2523)
+### Leetcode (550/2523)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -551,6 +551,7 @@
 547. - [x] [ 2512. Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) `***` `Practice sometime later`
 548. - [x] [ 290. Word Pattern](https://leetcode.com/problems/word-pattern/) `*`
 549. - [x] [ 520. Detect Capital](https://leetcode.com/problems/detect-capital/) `*`
+550. - [x] [ 944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) `Java✅ JavaScript✅`
 
 
  
