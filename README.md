@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (551/2524)
+### Leetcode (552/2524)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -553,6 +553,7 @@
 549. - [x] [ 520. Detect Capital](https://leetcode.com/problems/detect-capital/) `*`
 550. - [x] [ 944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) `Java✅ JavaScript✅`
 551. - [x] [ 2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)
+552. - [x] [ 452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) `***` `Greedy`
 
 
  
