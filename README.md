@@ -405,7 +405,7 @@
 401. - [x] [ 2380. Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) `**`
 402. - [x] [ 2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) `***` `Optimization is important`
 403. - [x] [ 2383. Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)
-404. - [x] [ 134. Gas Station](https://leetcode.com/problems/gas-station/) `***` `Greedy`
+404. - [x] [ 134. Gas Station](https://leetcode.com/problems/gas-station/) `***` `Greedy` `Java✅ JavaScript✅`
 405. - [x] [ 931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) `***` `DP`
 406. - [x] [ 116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) `***`
 407. - [x] [ 1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) `****` `DP`
