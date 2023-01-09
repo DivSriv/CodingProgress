@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (554/2532)
+### Leetcode (555/2532)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -556,6 +556,7 @@
 552. - [x] [ 452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) `***` `Greedy`
 553. - [x] [ 1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) `**` `Greedy`
 554. - [x] [ 149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) `***` `Math`
+555. - [x] [ 2515. Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/)
 
 
  
