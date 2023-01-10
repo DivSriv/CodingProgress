@@ -540,9 +540,9 @@
 536. - [x] [ 739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) `**`
 537. - [x] [ 2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) `***` 
 538. - [x] [ 841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) `**`
-539. - [x] [ 2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/) `*` `Practice BitMask method`
+539. - [x] [ 2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/) `*` `Practise BitMask method`
 540. - [x] [ 2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) `*`
-541. - [x] [ 309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) `***` `Practice again`
+541. - [x] [ 309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) `***` `Practise again`
 542. - [x] [ 2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
 543. - [x] [ 2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) `*`
 544. - [x] [ 2507. Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) `**`
@@ -589,7 +589,7 @@
 16. - [x] [ Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1) `*` `GFG`
 17. - [x] [ Angle between hour and minute hand](https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1) `GFG`
 18. - [x] [ Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) `***` `GFG`
-19. - [x] [ Minimum cost of choosing 3 increasing elements in an array of size N](https://www.geeksforgeeks.org/minimum-cost-of-choosing-3-increasing-elements-in-an-array-of-size-n/) `***` `GFG` `Practice sometime later`
+19. - [x] [ Minimum cost of choosing 3 increasing elements in an array of size N](https://www.geeksforgeeks.org/minimum-cost-of-choosing-3-increasing-elements-in-an-array-of-size-n/) `***` `GFG` `Practise sometime later`
 20. - [x] [ Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) `***` `8 directions` [`Number of Islands - 4 directions`](https://leetcode.com/problems/number-of-islands/) 
 21. - [x] [ Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/) `**`
 22. - [x] [ Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
