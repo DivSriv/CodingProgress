@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (555/2532)
+### Leetcode (556/2532)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -546,9 +546,9 @@
 542. - [x] [ 2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
 543. - [x] [ 2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) `*`
 544. - [x] [ 2507. Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) `**`
-545. - [x] [ 2509. Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/) `***` `Practice again`
+545. - [x] [ 2509. Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/) `***` `Practise again`
 546. - [x] [ 150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) `**` `Java✅ JavaScript✅`
-547. - [x] [ 2512. Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) `***` `Practice sometime later`
+547. - [x] [ 2512. Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) `***` `Practise sometime later`
 548. - [x] [ 290. Word Pattern](https://leetcode.com/problems/word-pattern/) `*`
 549. - [x] [ 520. Detect Capital](https://leetcode.com/problems/detect-capital/) `*`
 550. - [x] [ 944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) `Java✅ JavaScript✅`
@@ -557,6 +557,7 @@
 553. - [x] [ 1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) `**` `Greedy`
 554. - [x] [ 149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) `***` `Math`
 555. - [x] [ 2515. Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/)
+556. - [x] [ 30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) `****` `Sliding Window` `Practise sometime later`
 
 
  
