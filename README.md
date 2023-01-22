@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (566/2547)
+### Leetcode (567/2547)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -568,6 +568,7 @@
 564. - [x] [ 974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) `***`
 565. - [x] [ 491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) `***` `Java✅`
 566. - [x] [ 93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) `***` `JavaScript✅`
+567. - [x] [ 2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)
 
 
  
