@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (570/2547)
+### Leetcode (571/2547)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -572,6 +572,7 @@
 568. - [x] [ 997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 569. - [x] [ 909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `***` `JavaScript✅`
 570. - [x] [ 2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) `***` `Java✅`
+571. - [x] [ 787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) `****` `Java✅`
 
 
  
