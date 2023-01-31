@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (575/2552)
+### Leetcode (576/2552)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -577,6 +577,7 @@
 573. - [x] [ 352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) `****` `BS` `Design` `JavaScript✅`
 574. - [x] [ 460. LFU Cache](https://leetcode.com/problems/lfu-cache/) `****` `Design` `Need much more Practise for implementation` `Java✅`
 575. - [x] [ 1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+576. - [x] [ 1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) `****` `JavaScript✅`
 
 
  
