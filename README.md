@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (578/2552)
+### Leetcode (579/2552)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -580,6 +580,7 @@
 576. - [x] [ 1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) `****` `JavaScript✅`
 577. - [x] [ 1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 578. - [x] [ 2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) `*`
+579. - [x] [ 2544. Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)
 
 
  
