@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (580/2556)
+### Leetcode (581/2556)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -582,6 +582,7 @@
 578. - [x] [ 2545. Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) `*`
 579. - [x] [ 2544. Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)
 580. - [x] [ 2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
+581. - [x] [ 2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 
 
  
