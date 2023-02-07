@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (582/2561)
+### Leetcode (583/2561)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -584,6 +584,7 @@
 580. - [x] [ 2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
 581. - [x] [ 2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)
 582. - [x] [ 2527. Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/)
+583. - [x] [ 2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) `*`
 
 
  
