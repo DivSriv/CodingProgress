@@ -1,7 +1,7 @@
 # Leetcode Progress
 
 "🔒" means Locked and requires Premium
-### Leetcode (586/2561)
+### Leetcode (587/2561)
 1. - [x] [ 1. Two Sum](https://leetcode.com/problems/two-sum/) `**` `Java✅ JavaScript✅`
 2. - [x] [ 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 3. - [x] [ 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
@@ -588,6 +588,7 @@
 584. - [x] [ 45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) `***`
 585. - [x] [ 2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
 586. - [x] [ 2549. Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/)
+587. - [x] [ 2517. Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/) `**` `BS`
 
 
  
